@@ -44,8 +44,8 @@ Me destaco por mi *enfoque analítico, atención al detalle y proactividad*, bus
 
 ## 📈 Estadísticas de GitHub
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alejandracuervocruz-bot&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alejandracuervocruz-bot&layout=compact&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ai&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ai&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -58,8 +58,8 @@ Me destaco por mi *enfoque analítico, atención al detalle y proactividad*, bus
   <a href="https://www.linkedin.com/in/alejandra-cuervo-21a832391/">
     <img src="https://img.shields.io/badge/LinkedIn-Alejandra%20Cuervo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/alejandracuervocruz-bot">
-    <img src="https://img.shields.io/badge/GitHub-Alejandra%20Cuervo-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/Ai">
+    <img src="https://img.shields.io/badge/GitHub-Ai-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
