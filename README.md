@@ -1,4 +1,18 @@
-<h1 align="center">👋 ¡Hola! Soy <strong>Alejandra Cuervo Cruz</strong></h1>
+[8:21 a. m., 23/11/2025] 😍: 👋 ¡Hola! Soy Alejandra Cuervo Cruz
+Especialista Junior en Marketing Digital | SEO | Google Ads | Analítica Digital
+🚀 Sobre mí
+Soy una Especialista Junior en Marketing Digital con experiencia práctica en SEO On-Page, Google Ads y analítica digital con GA4.
+Me destaco por mi enfoque analítico, atención al detalle y pasión por optimizar estrategias para mejorar el rendimiento digital de marcas y proyectos.
+
+Formada en Tripleten LATAM, donde desarrollé proyectos reales y aplicados en auditorías SEO, campañas pagadas y análisis de embudos de conversión.
+
+📌 Mi meta: integrarme a un equipo donde pueda aportar ideas, optimizar procesos y seguir creciendo profesionalmente en el entorno digital.
+
+🧰 Habilidades Técnicas
+Marketing Digital
+Auditoría SEO On-Page
+Inves…
+[8:23 a. m., 23/11/2025] 😍: <h1 align="center">👋 ¡Hola! Soy <strong>Alejandra Cuervo Cruz</strong></h1>
 <h3 align="center">Especialista Junior en Marketing Digital | SEO | Google Ads | Analítica Digital</h3>
 
 ---
@@ -27,13 +41,6 @@ Formada en *Tripleten LATAM*, donde desarrollé proyectos reales y aplicados en 
 - Estrategias de conversión (CRO)
 
 ### *Herramientas*
-<p>
-  <img src="https://skillicons.dev/icons?i=analytics" />
-  <img src="https://skillicons.dev/icons?i=googlecloud" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</p>
-
 - Google Search Console  
 - Google Tag Manager  
 - SEMRush (básico)  
