@@ -12,7 +12,7 @@ Formada en Tripleten LATAM, donde desarrollé proyectos reales y aplicados en au
 Marketing Digital
 Auditoría SEO On-Page
 Inves…
-[8:23 a. m., 23/11/2025] 😍: <h1 align="center">👋 ¡Hola! Soy <strong>Alejandra Cuervo Cruz</strong></h1>
+<h1 align="center">👋 ¡Hola! Soy <strong>Alejandra Cuervo Cruz</strong></h1>
 <h3 align="center">Especialista Junior en Marketing Digital | SEO | Google Ads | Analítica Digital</h3>
 
 ---
