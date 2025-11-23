@@ -32,6 +32,7 @@ Me destaco por mi *enfoque analítico, atención al detalle y proactividad*, bus
 ---
 
 ## 📌 Proyectos Destacados
+
 | Proyecto | Descripción | Link |
 |----------|-------------|------|
 | 🔎 Auditoría SEO On-Page | Auditoría completa del sitio web con análisis técnico, contenido, rendimiento y recomendaciones de posicionamiento | [Ver proyecto](https://github.com/alejandracuervocruz-bot/Auditoria-SEO-OnPage) |
