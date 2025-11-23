@@ -1,4 +1,4 @@
-[8:21 a. m., 23/11/2025] 😍: 👋 ¡Hola! Soy Alejandra Cuervo Cruz
+👋 ¡Hola! Soy Alejandra Cuervo Cruz
 Especialista Junior en Marketing Digital | SEO | Google Ads | Analítica Digital
 🚀 Sobre mí
 Soy una Especialista Junior en Marketing Digital con experiencia práctica en SEO On-Page, Google Ads y analítica digital con GA4.
