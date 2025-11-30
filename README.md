@@ -1,41 +1,49 @@
 # ¡Hola, soy Alejandra Cuervo! 👋
 
-Soy **Desarrolladora de Software** apasionada por crear soluciones tecnológicas que resuelvan problemas reales. Me especializo en **Desarrollo Web** y me encanta aprender nuevas tecnologías para mejorar mis habilidades. Actualmente, estoy enfocada en el **desarrollo frontend** con **React** y explorando el mundo del **Machine Learning**.
+Soy **Desarrolladora de Software** enfocada en crear soluciones innovadoras y escalables. Me especializo en **Desarrollo Web** con tecnologías como **React.js** y **Node.js**, y siempre estoy buscando nuevas maneras de mejorar mis habilidades. Actualmente, estoy explorando el mundo del **Machine Learning** y el **Deep Learning**.
 
 ## 🚀 ¿Qué hago?
 - Desarrollo aplicaciones web dinámicas utilizando **React.js** y **Node.js**.
-- Trabajo con bases de datos **SQL** y **NoSQL**.
-- Siempre estoy buscando maneras de optimizar el rendimiento y la experiencia del usuario en cada proyecto.
+- Trabajo con bases de datos tanto **relacionales** (SQL) como **no relacionales** (NoSQL), eligiendo la mejor solución según el proyecto.
+- Siempre optimizo el rendimiento y la experiencia del usuario en cada aplicación.
 - En constante aprendizaje sobre **inteligencia artificial** y **algoritmos**.
 
 ## 🌱 Actualmente estoy aprendiendo:
-- **Deep Learning** y **TensorFlow**.
-- Mejores prácticas en **DevOps** y **CI/CD**.
+- **Aprendizaje profundo** y **TensorFlow** para crear modelos más inteligentes.
+- Mejores prácticas en **DevOps** y **CI/CD** para mejorar la integración y entrega continua.
 
 ## 💬 Pregúntame sobre:
-- Desarrollo web y frameworks como **React**.
-- Diseño de arquitecturas de software escalables.
-- Inteligencia Artificial aplicada al desarrollo web.
+- **Desarrollo web** y frameworks como **React**.
+- Diseño de **arquitecturas de software** escalables.
+- **Inteligencia Artificial** aplicada al desarrollo web.
 
 ## 📫 Contáctame:
-- Email: [alejandra@ejemplo.com](mailto:alejandra@ejemplo.com)
-- LinkedIn: [Alejandra Cuervo](https://www.linkedin.com/in/alejandra-cuervo/)
-- Twitter: [@alejandra_dev](https://twitter.com/alejandra_dev)
+- **Correo electrónico**: [alejandra@ejemplo.com](mailto:alejandra@ejemplo.com)
+- **LinkedIn**: [Alejandra Cuervo](https://www.linkedin.com/in/alejandra-cuervo/)
+- **Twitter**: [@alejandra_dev](https://twitter.com/alejandra_dev)
 
 ---
 
 ## Mis Proyectos Destacados
 
-- [**Proyecto 1**](link-al-proyecto): Aplicación web para gestionar tareas con autenticación de usuarios. He utilizado **React.js** y **MongoDB** para la base de datos.
-  
-- [**Proyecto 2**](link-al-proyecto): Plataforma de e-commerce para productos digitales, desarrollado con **Node.js** y **Express**. Implementé pagos con **Stripe** y una API RESTful.
+- **[Gestión de Tareas](#):**  
+  Aplicación web para gestionar tareas con autenticación de usuarios.  
+  **Tecnologías**: React.js, MongoDB.  
+  **Descripción**: Los usuarios pueden crear, editar y eliminar tareas. Implementé autenticación JWT y un sistema de tareas con categorías.
 
-- [**Proyecto 3**](link-al-proyecto): Chatbot inteligente para atención al cliente, utilizando **Python** y **TensorFlow** para el modelo de lenguaje natural.
+- **[Plataforma E-Commerce](#):**  
+  Plataforma de comercio electrónico para productos digitales.  
+  **Tecnologías**: Node.js, Express, Stripe.  
+  **Descripción**: Desarrollé una API RESTful y un sistema de pagos con **Stripe** para la compra de productos digitales.
+
+- **[Chatbot de Atención al Cliente](#):**  
+  Chatbot inteligente para atención al cliente en línea.  
+  **Tecnologías**: Python, TensorFlow.  
+  **Descripción**: Utilicé procesamiento de lenguaje natural (NLP) con **TensorFlow** para crear un chatbot que entiende y responde preguntas frecuentes de los usuarios.
 
 ---
 
-## 🔧 Herramientas y Tecnologías que Uso
-
+## 🔧 Herramientas y Tecnologías que Uso:
 - **Lenguajes**: JavaScript, Python, HTML5, CSS3.
 - **Frameworks**: React, Node.js, Express.
 - **Bases de Datos**: MongoDB, PostgreSQL.
@@ -44,5 +52,4 @@ Soy **Desarrolladora de Software** apasionada por crear soluciones tecnológicas
 
 ---
 
-> "La tecnología es solo una herramienta. La verdadera magia está en la creatividad de las personas que la usan."
-
+> "Mi objetivo es seguir creando soluciones que impacten positivamente a los usuarios, optimizando tanto la experiencia como el rendimiento."
